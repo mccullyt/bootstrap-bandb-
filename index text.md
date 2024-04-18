@@ -1,0 +1,2 @@
+
+This is a one bedroom cabin with king size bed. There is a fold out sofa sleeper in the front room, so it can sleep up to 4 people. There is a full bathroom, full kitchen, dining room table, fireplace, deck with grill, fire pit outside, and private gazebo with hot tub. This is the cabin furthest to the left when you pull in the driveway. This cabins is great for romantic getaways and small families.

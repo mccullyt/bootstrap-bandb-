@@ -1,3 +1,15 @@
+.thmb-nail-clip{
+    clip-path: inset(400px 0px 400px 0px);
+}
+
+.carousel-img{
+    width:100%;
+    height:800px;
+    object-fit: cover;
+}
+
+
+
 /* #region Debug Styles */
 html{background-color: yellowgreen;}
 body{background-color:yellow}
